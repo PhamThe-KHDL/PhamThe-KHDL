@@ -171,15 +171,6 @@
 
 
 
-   
-
-
-
-
-
-
-
-
 
 
 
@@ -220,7 +211,10 @@
 
 
 
-
+<a href="https://github.com/PhamThe-KHDL/IBM-Data-Science-Professional-Certificate/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=IBM-Data-Science-Professional-Certificate&theme=radical" />
+</a> 
 
 
 
