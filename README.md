@@ -93,9 +93,9 @@ B.S. in Data Science Aug 2019 - Present University of Information Technology VNU
 
 
 
-<a href="https://github.com/PhamThe-KHDL/Photomosaic-generator/">
+<a href="https://github.com/PhamThe-KHDL/DS105.M11-Data-Analysis-and-Visualization/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=Photomosaic-generator&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS105.M11-Data-Analysis-and-Visualization&theme=radical" />
 </a>
 
 
@@ -103,9 +103,9 @@ B.S. in Data Science Aug 2019 - Present University of Information Technology VNU
 
 
 
-<a href="https://github.com/uvipen/Street-fighter-A3C-ICM-pytorch/">
+<a href="https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Street-fighter-A3C-ICM-pytorch&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS201.M11-Deep-Learning-in-Data-Science&theme=merko" />
 </a>    
 
 
@@ -113,27 +113,27 @@ B.S. in Data Science Aug 2019 - Present University of Information Technology VNU
 
 
 
-<a href="https://github.com/uvipen/SSD-pytorch/">
+<a href="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=SSD-pytorch&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=IS211.M21-Distributed-Databases &theme=gruvbox" />
 </a>
 
 
 
 
 
-<a href="https://github.com/uvipen/Contra-PPO-pytorch/">
+<a href="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Contra-PPO-pytorch&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=IS211.M21-Distributed-Databases&theme=dark" />
 </a>    
 
 
 
 
 
-<a href="https://github.com/uvipen/Deeplab-pytorch/">
+<a href="https://github.com/PhamThe-KHDL/IT007.M14-Operating-Systems/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Deeplab-pytorch&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=IT007.M14-Operating-Systems&theme=onedark" />
 </a>
 
 
@@ -141,36 +141,36 @@ B.S. in Data Science Aug 2019 - Present University of Information Technology VNU
 
 
 
-<a href="https://github.com/uvipen/Character-level-cnn-pytorch/">
+<a href="https://github.com/PhamThe-KHDL/IT004.L19-Database/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Character-level-cnn-pytorch&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=IT004.L19-Database&theme=cobalt" />
 </a>    
 
 
 
 
 
-<a href="https://github.com/uvipen/Character-level-cnn-tensorflow/">
+<a href="https://github.com/PhamThe-KHDL/Python-ML-02/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Character-level-cnn-tensorflow&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=Python-ML-02&theme=synthwave" />
 </a>
 
 
 
 
 
-<a href="https://github.com/uvipen/Very-deep-cnn-pytorch/">
+<a href="https://github.com/PhamThe-KHDL/Very-deep-cnn-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-pytorch&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=Very-deep-cnn-pytorch&theme=highcontrast" />
 </a>    
 
 
 
 
 
-<a href="https://github.com/uvipen/Very-deep-cnn-tensorflow/">
+<a href="https://github.com/PhamThe-KHDL/Very-deep-cnn-tensorflow/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-tensorflow&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?PhamThe-KHDL=uvipen&repo=Very-deep-cnn-tensorflow&theme=dracula" />
 </a>
 
 
