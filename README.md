@@ -1,4 +1,4 @@
-[![PhamThe-KHDL](https://www.canopusinfosystems.com/wp-content/uploads/2022/12/aac3885885dd2a997daba4e78fcbad79.gif)](https://github.com/PhamThe-KHDL)
+[![PhamThe-KHDL](https://datalushq.com/wp-content/uploads/2022/07/icon_2.gif)](https://github.com/PhamThe-KHDL)
 <h1 align="center">Hi 👋, I'm Duc-The Pham</h1>
 <h3 align="center">B.S. in Data Science Aug 2019 - Present University of Information Technology VNU-HCM, Viet Nam.</h3>
 
