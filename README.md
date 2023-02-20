@@ -47,36 +47,36 @@ B.S. in Data Science Aug 2019 - Present University of Information Technology VNU
 
 
 
-<a href="https://github.com/PhamThe-KHDL/Flappy-bird-deep-Q-learning-pytorch/">
+<a href="https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS304.M21-Experimental-Design-and-Analysis&theme=onedark" />
 </a>    
 
 
 
 
 
-<a href="https://github.com/PhamThe-KHDL/Tetris-deep-Q-learning-pytorch/">
+<a href="https://github.com/PhamThe-KHDL/DS303.M21-Bayesian-Statistics/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS303.M21-Bayesian-Statistics&theme=cobalt" />
 </a>
 
 
 
 
 
-<a href="https://github.com/uvipen/AirGesture/">
+<a href="https://github.com/PhamThe-KHDL/DS204.M21-Data-Science-and-Application-Project/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=AirGesture&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS204.M21-Data-Science-and-Application-Project&theme=synthwave" />
 </a>    
 
 
 
 
 
-<a href="https://github.com/uvipen/Yolo-v2-pytorch/">
+<a href="https://github.com/PhamThe-KHDL/DS310.M11-Natural-Language-Processing-for-Data-Science/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Yolo-v2-pytorch&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS310.M11-Natural-Language-Processing-for-Data-Science&theme=highcontrast" />
 </a>
 
 
@@ -84,18 +84,18 @@ B.S. in Data Science Aug 2019 - Present University of Information Technology VNU
 
 
 
-<a href="https://github.com/uvipen/Hierarchical-attention-networks-pytorch/">
+<a href="https://github.com/PhamThe-KHDL/IE206.M11-Graduation-Preparation-Project/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Hierarchical-attention-networks-pytorch&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=IE206.M11-Graduation-Preparation-Project&theme=dracula" />
 </a>    
 
 
 
 
 
-<a href="https://github.com/uvipen/Photomosaic-generator/">
+<a href="https://github.com/PhamThe-KHDL/Photomosaic-generator/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Photomosaic-generator&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=Photomosaic-generator&theme=radical" />
 </a>
 
 
