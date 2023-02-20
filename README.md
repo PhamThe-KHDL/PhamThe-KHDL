@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **phamthect2001@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1bBTTILAbE1B_AQw3NRkNZM6AFadIKWXK/view?usp=share_link)
+- 📄 Know about my experiences [Résumé](https://drive.google.com/file/d/1bBTTILAbE1B_AQw3NRkNZM6AFadIKWXK/view?usp=share_link)
 
 - ⚡ Fun fact **I am Funny**
 
