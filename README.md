@@ -2,7 +2,8 @@
 B.S. in Data Science Aug 2019 - Present University of Information Technology VNU-HCM, Viet Nam.<br>
 ## 📫 How to reach me: 
 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/PhamThe-KHDL) [![Facebook](https://github.com/uvipen/introduction/blob/main/Youtube.png) Facebook]([https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw](https://www.facebook.com/PhamDucThe2k1))
+[![image](https://user-images.githubusercontent.com/62134515/219990718-dded25e5-3d74-47b2-a143-21d093bbafca.png)](https://github.com/PhamThe-KHDL)     [![image](https://user-images.githubusercontent.com/62134515/219990790-3354e59d-4f67-4f0f-997d-17b68adf4850.png)](https://www.facebook.com/PhamDucThe2k1)
+
 
 
 
