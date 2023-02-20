@@ -7,6 +7,7 @@ B.S. in Data Science Aug 2019 - Present University of Information Technology VNU
 
 
 
+
 ![The's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PhamThe-KHDL&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 
@@ -20,10 +21,10 @@ B.S. in Data Science Aug 2019 - Present University of Information Technology VNU
 
 
 
-<a href="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/">
+<a href="https://github.com/PhamThe-KHDL/DS307.N11-Social-Media-Data-Analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS200.M21-Big-Data&theme=merko" />
-</a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS307.N11-Social-Media-Data-Analysis&theme=gruvbox" />
+</a> 
 
 
 
@@ -38,11 +39,14 @@ B.S. in Data Science Aug 2019 - Present University of Information Technology VNU
 
 
 
-
-<a href="https://github.com/PhamThe-KHDL/DS307.N11-Social-Media-Data-Analysis/">
+<a href="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS307.N11-Social-Media-Data-Analysis&theme=gruvbox" />
-</a>    
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS200.M21-Big-Data&theme=merko" />
+</a>
+
+
+
+   
 
 
 
@@ -75,10 +79,11 @@ B.S. in Data Science Aug 2019 - Present University of Information Technology VNU
 
 
 
-<a href="https://github.com/PhamThe-KHDL/DS310.M11-Natural-Language-Processing-for-Data-Science/">
+<a href="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS310.M11-Natural-Language-Processing-for-Data-Science&theme=highcontrast" />
-</a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=IS211.M21-Distributed-Databases&theme=dark" />
+</a> 
+
 
 
 
@@ -94,6 +99,27 @@ B.S. in Data Science Aug 2019 - Present University of Information Technology VNU
 
 
 
+
+<a href="https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS201.M11-Deep-Learning-in-Data-Science&theme=merko" />
+</a> 
+
+
+
+
+
+
+
+<a href="https://github.com/PhamThe-KHDL/DS310.M11-Natural-Language-Processing-for-Data-Science/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS310.M11-Natural-Language-Processing-for-Data-Science&theme=highcontrast" />
+</a>
+
+
+
+
+
 <a href="https://github.com/PhamThe-KHDL/DS105.M11-Data-Analysis-and-Visualization/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS105.M11-Data-Analysis-and-Visualization&theme=radical" />
@@ -104,29 +130,13 @@ B.S. in Data Science Aug 2019 - Present University of Information Technology VNU
 
 
 
-<a href="https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS201.M11-Deep-Learning-in-Data-Science&theme=merko" />
-</a>    
+   
 
 
 
 
 
 
-<a href="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=IS211.M21-Distributed-Databases &theme=gruvbox" />
-</a>
-
-
-
-
-
-<a href="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=IS211.M21-Distributed-Databases&theme=dark" />
-</a>    
 
 
 
@@ -160,19 +170,15 @@ B.S. in Data Science Aug 2019 - Present University of Information Technology VNU
 
 
 
-<a href="https://github.com/PhamThe-KHDL/Very-deep-cnn-pytorch/">
+<a href="https://github.com/PhamThe-KHDL/Cheat-Sheet/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=Very-deep-cnn-pytorch&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=Cheat-Sheet&theme=highcontrast" />
 </a>    
 
 
 
 
 
-<a href="https://github.com/PhamThe-KHDL/Very-deep-cnn-tensorflow/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?PhamThe-KHDL=uvipen&repo=Very-deep-cnn-tensorflow&theme=dracula" />
-</a>
 
 
 
