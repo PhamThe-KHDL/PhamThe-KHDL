@@ -10,54 +10,55 @@ B.S. in Data Science Aug 2019 - Present University of Information Technology VNU
 
 
 
-<a href="https://github.com/uvipen/QuickDraw/">
+<a href="https://github.com/PhamThe-KHDL/DS104.N11-Parallel-and-Distributed-Computing/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS104.N11-Parallel-and-Distributed-Computing&theme=radical" />
 </a>    
 
 
 
 
 
-<a href="https://github.com/uvipen/ASCII-generator/">
+<a href="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS200.M21-Big-Data&theme=merko" />
 </a>
 
 
 
 
 
-<a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
+<a href="https://github.com/PhamThe-KHDL/DS300.N11-Recommendation-System/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
-</a>    
-
-
-
-
-
-<a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS300.N11-Recommendation-System&theme=dark" />
 </a>
 
 
 
 
 
-<a href="https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/">
+
+<a href="https://github.com/PhamThe-KHDL/DS307.N11-Social-Media-Data-Analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS307.N11-Social-Media-Data-Analysis&theme=gruvbox" />
 </a>    
 
 
 
 
 
-<a href="https://github.com/uvipen/Tetris-deep-Q-learning-pytorch/">
+<a href="https://github.com/PhamThe-KHDL/Flappy-bird-deep-Q-learning-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
+</a>    
+
+
+
+
+
+<a href="https://github.com/PhamThe-KHDL/Tetris-deep-Q-learning-pytorch/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
 </a>
 
 
