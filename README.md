@@ -19,7 +19,7 @@
 <p align="left">
 <!-- <a href="https://kaggle.com/phamtheds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="phamtheds" height="30" width="40" /></a>
 <a href="https://fb.com/phamducthe2k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phamducthe2k1" height="30" width="40" /></a> -->
-<a href="phamthect2001@gmail.com"><img src="https://img.shields.io/badge/-phamthect2001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:phamthect2001@gmail.com"><img src="https://img.shields.io/badge/-phamthect2001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://facebook.com/phamducthe2k1"><img src="https://img.shields.io/badge/-PhamDucThe-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://linkedin.com/in/pham-duc-the-99843a219"><img src="https://img.shields.io/badge/-PhamDucThe-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/phamthe0610"><img src="https://img.shields.io/badge/-@phamthe-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
