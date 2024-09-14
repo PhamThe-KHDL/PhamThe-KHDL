@@ -19,7 +19,9 @@
 <p align="left">
 <a href="https://kaggle.com/phamtheds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="phamtheds" height="30" width="40" /></a>
 <a href="https://fb.com/phamducthe2k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phamducthe2k1" height="30" width="40" /></a>
-<a [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myprofile) /></a>
+ <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+</a> &nbsp; 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
