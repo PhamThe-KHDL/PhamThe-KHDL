@@ -19,7 +19,7 @@
 <p align="left">
 <!-- <a href="https://kaggle.com/phamtheds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="phamtheds" height="30" width="40" /></a>
 <a href="https://fb.com/phamducthe2k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phamducthe2k1" height="30" width="40" /></a> -->
-<a href="phamthect2001@gmail.com"><img src="https://img.shields.io/badge/-phamthect2001@gmail.com?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="phamthect2001@gmail.com"><img src="https://img.shields.io/badge/-phamthect2001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://facebook.com/phamducthe2k1"><img src="https://img.shields.io/badge/-PhamDucThe?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/pham-duc-the-99843a219" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://instagram.com/"><img src="https://img.shields.io/badge/-@?style=flat&logo=Instagram&logoColor=white"/></a>
