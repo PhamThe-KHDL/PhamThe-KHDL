@@ -24,7 +24,7 @@
 - 🧱 Specialized in **low-latency, high-throughput systems** on **Kafka, Redis, PostgreSQL/TimescaleDB, and Kubernetes**
 - 🎓 **B.S. in Data Science** (GPA 8.48/10) — University of Information Technology, VNU-HCM
 - 🌏 Based in **Ho Chi Minh City, Viet Nam**
-- 📄 [**Résumé**](https://drive.google.com/file/d/1bBTTILAbE1B_AQw3NRkNZM6AFadIKWXK/view?usp=share_link) &nbsp;•&nbsp; 📫 **phamthect2001@gmail.com**
+- 📄 [**Résumé**](https://drive.google.com/file/d/1ZnqFdltZvy7JCnk6-1Ypz2P5FVsmcxJW/view?usp=sharing) &nbsp;•&nbsp; 📫 **phamthect2001@gmail.com**
 
 <!-- ============================ EXPERIENCE ============================ -->
 ## 🚀 What I've Built
