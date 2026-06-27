@@ -91,7 +91,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phamthe-khdl&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamthe-khdl&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamthe-khdl&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=jupyter%20notebook,tsql&langs_count=8" alt="top langs" />
 </p>
 
 <p align="center">
