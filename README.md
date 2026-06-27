@@ -1,13 +1,15 @@
 [![PhamThe-KHDL](https://datalushq.com/wp-content/uploads/2022/07/icon_2.gif)](https://github.com/PhamThe-KHDL)
 <h1 align="center">Hi 👋, I'm Duc-The Pham</h1>
-<h3 align="center">B.S. in Data Science Aug 2019 - Aug 2024 at University of Information Technology VNU-HCM, Viet Nam.</h3>
+<h3 align="center">B.S. in Data Science (Aug 2019 - Aug 2024) at University of Information Technology, VNU-HCM, Viet Nam.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phamthe-khdl&label=Profile%20views&color=0e75b6&style=flat" alt="phamthe-khdl" /> </p>
 <img align="right" alt="Coder GIF" height=300 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🎓 B.S. in Data Science from the **University of Information Technology, VNU-HCM**
 
-- 💬 Ask me about **Data Engineer**
+- 🌏 Based in **TP.HCM, Viet Nam**
+
+- 💬 Ask me about **Data Engineering**
 
 - 📫 How to reach me **phamthect2001@gmail.com**
 
