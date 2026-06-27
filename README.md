@@ -90,7 +90,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phamthe-khdl&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phamthe-khdl&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamthe-khdl&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
