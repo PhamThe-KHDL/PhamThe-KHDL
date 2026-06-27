@@ -22,7 +22,7 @@
 - 🛰️ **Senior Data Engineer** with **3+ years** at a **quantitative hedge fund**, the sole engineer owning the firm's **end-to-end market-data platform**
 - ⚡ I build **real-time & historical data infrastructure** powering quantitative research and live trading across **Vietnamese, global, and crypto markets**
 - 🧱 Specialized in **low-latency, high-throughput systems** on **Kafka, Redis, PostgreSQL/TimescaleDB, and Kubernetes**
-- 🎓 **B.S. in Data Science** (GPA 8.48/10) — University of Information Technology, VNU-HCM
+- 🎓 **B.S. in Data Science** — University of Information Technology, VNU-HCM
 - 🌏 Based in **Ho Chi Minh City, Viet Nam**
 - 📄 [**Résumé**](https://drive.google.com/file/d/1ZnqFdltZvy7JCnk6-1Ypz2P5FVsmcxJW/view?usp=sharing) &nbsp;•&nbsp; 📫 **phamthect2001@gmail.com**
 
