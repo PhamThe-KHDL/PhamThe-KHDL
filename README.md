@@ -1,241 +1,138 @@
-[![PhamThe-KHDL](https://datalushq.com/wp-content/uploads/2022/07/icon_2.gif)](https://github.com/PhamThe-KHDL)
-<h1 align="center">Hi 👋, I'm Duc-The Pham</h1>
-<h3 align="center">B.S. in Data Science (Aug 2019 - Aug 2024) at University of Information Technology, VNU-HCM, Viet Nam.</h3>
+<!-- ============================ HEADER ============================ -->
+<a href="https://github.com/PhamThe-KHDL">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:4c1d95&height=200&section=header&text=Duc-The%20Pham&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Data%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descSize=18" width="100%" alt="header" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phamthe-khdl&label=Profile%20views&color=0e75b6&style=flat" alt="phamthe-khdl" /> </p>
-<img align="right" alt="Coder GIF" height=300 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<p align="center">
+  <a href="https://github.com/PhamThe-KHDL">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=B.S.+in+Data+Science+%40+UIT+VNU-HCM;Data+Engineering+%7C+Big+Data+%7C+ML;Always+learning%2C+always+building." alt="Typing SVG" />
+  </a>
+</p>
 
-- 🎓 B.S. in Data Science from the **University of Information Technology, VNU-HCM**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=phamthe-khdl&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/PhamThe-KHDL?tab=followers">
+    <img src="https://img.shields.io/github/followers/PhamThe-KHDL?label=Followers&style=flat&color=0e75b6" alt="followers" />
+  </a>
+</p>
 
+<!-- ============================ ABOUT ============================ -->
+## 👨‍💻 About Me
+
+- 🎓 **B.S. in Data Science** (Aug 2019 – Aug 2024) at **University of Information Technology, VNU-HCM**, Viet Nam
 - 🌏 Based in **TP.HCM, Viet Nam**
+- 💬 Ask me about **Data Engineering**, **Big Data**, and **Machine Learning**
+- 📄 Know more about my experiences — [**Résumé**](https://drive.google.com/file/d/1bBTTILAbE1B_AQw3NRkNZM6AFadIKWXK/view?usp=share_link)
+- 📫 Reach me at **phamthect2001@gmail.com**
+- ⚡ Fun fact: **I am Funny** 😄
 
-- 💬 Ask me about **Data Engineering**
+<!-- ============================ CONNECT ============================ -->
+## 🔗 Connect with Me
 
-- 📫 How to reach me **phamthect2001@gmail.com**
-
-- 📄 Know about my experiences [Résumé](https://drive.google.com/file/d/1bBTTILAbE1B_AQw3NRkNZM6AFadIKWXK/view?usp=share_link)
-
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://kaggle.com/phamtheds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="phamtheds" height="30" width="40" /></a>
-<a href="https://fb.com/phamducthe2k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phamducthe2k1" height="30" width="40" /></a> -->
-<a href="mailto:phamthect2001@gmail.com"><img src="https://img.shields.io/badge/-phamthect2001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://facebook.com/phamducthe2k1"><img src="https://img.shields.io/badge/-PhamDucThe-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://linkedin.com/in/pham-duc-the-99843a219"><img src="https://img.shields.io/badge/-PhamDucThe-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/phamthe0610"><img src="https://img.shields.io/badge/-@phamthe-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:phamthect2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+  <a href="https://facebook.com/phamducthe2k1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
+  <a href="https://linkedin.com/in/pham-duc-the-99843a219"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://instagram.com/phamthe0610"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<!--   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  -->
-<!--   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>  -->
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<!--   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>  -->
-<!--   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  -->
-<!--   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  -->
-<!--   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<!--   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  -->
-<!--   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>  -->
-<!--   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>  -->
-<!--   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  -->
+<!-- ============================ TECH STACK ============================ -->
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mongodb,kafka,linux,git,docker&theme=dark" alt="tech stack" />
 </p>
 
-
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamthe-khdl&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="phamthe-khdl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phamthe-khdl&show_icons=true&locale=en&theme=tokyonight" alt="phamthe-khdl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phamthe-khdl&theme=tokyonight" alt="phamthe-khdl" /></p>
-
-
-
-
-
-
-
-
-
-
-
-<h3 align="left">Repositories:</h3>
-
-
-
-
-
-
-<a href="https://github.com/PhamThe-KHDL/DS104.N11-Parallel-and-Distributed-Computing/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS104.N11-Parallel-and-Distributed-Computing&theme=radical" />
-</a>    
-
-
-
-
-
-<a href="https://github.com/PhamThe-KHDL/DS307.N11-Social-Media-Data-Analysis/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS307.N11-Social-Media-Data-Analysis&theme=gruvbox" />
-</a> 
-
-
-
-
-
-<a href="https://github.com/PhamThe-KHDL/DS300.N11-Recommendation-System/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS300.N11-Recommendation-System&theme=dark" />
-</a>
-
-
-
-
-
-<a href="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS200.M21-Big-Data&theme=merko" />
-</a>
-
-
-
-   
-
-
-
-
-
-<a href="https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS304.M21-Experimental-Design-and-Analysis&theme=onedark" />
-</a>    
-
-
-
-
-
-<a href="https://github.com/PhamThe-KHDL/DS303.M21-Bayesian-Statistics/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS303.M21-Bayesian-Statistics&theme=cobalt" />
-</a>
-
-
-
-
-
-<a href="https://github.com/PhamThe-KHDL/DS204.M21-Data-Science-and-Application-Project/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS204.M21-Data-Science-and-Application-Project&theme=synthwave" />
-</a>    
-
-
-
-
-
-<a href="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=IS211.M21-Distributed-Databases&theme=dark" />
-</a> 
-
-
-
-
-
-
-
-<a href="https://github.com/PhamThe-KHDL/IE206.M11-Graduation-Preparation-Project/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=IE206.M11-Graduation-Preparation-Project&theme=dracula" />
-</a>    
-
-
-
-
-
-
-<a href="https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS201.M11-Deep-Learning-in-Data-Science&theme=merko" />
-</a> 
-
-
-
-
-
-
-
-<a href="https://github.com/PhamThe-KHDL/DS310.M11-Natural-Language-Processing-for-Data-Science/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS310.M11-Natural-Language-Processing-for-Data-Science&theme=highcontrast" />
-</a>
-
-
-
-
-
-<a href="https://github.com/PhamThe-KHDL/DS105.M11-Data-Analysis-and-Visualization/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS105.M11-Data-Analysis-and-Visualization&theme=radical" />
-</a>
-
-
-
-
-
-
-
-
-
-<a href="https://github.com/PhamThe-KHDL/IT007.M14-Operating-Systems/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=IT007.M14-Operating-Systems&theme=onedark" />
-</a>
-
-
-
-
-
-
-<a href="https://github.com/PhamThe-KHDL/IT004.L19-Database/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=IT004.L19-Database&theme=cobalt" />
-</a>    
-
-
-
-
-
-<a href="https://github.com/PhamThe-KHDL/Python-ML-02/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=Python-ML-02&theme=synthwave" />
-</a>
-
-
-
-
-
-<a href="https://github.com/PhamThe-KHDL/Cheat-Sheet/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=Cheat-Sheet&theme=highcontrast" />
-</a>    
-
-
-
-
-
-<a href="https://github.com/PhamThe-KHDL/IBM-Data-Science-Professional-Certificate/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhamThe-KHDL&repo=IBM-Data-Science-Professional-Certificate&theme=radical" />
-</a> 
-
-
-
+<!-- ============================ STATS ============================ -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phamthe-khdl&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamthe-khdl&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phamthe-khdl&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PhamThe-KHDL&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
+</p>
+
+<!-- ============================ REPOSITORIES ============================ -->
+## 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/PhamThe-KHDL/DS104.N11-Parallel-and-Distributed-Computing/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS104.N11-Parallel-and-Distributed-Computing&theme=tokyonight" alt="Parallel and Distributed Computing" />
+  </a>
+  <a href="https://github.com/PhamThe-KHDL/DS307.N11-Social-Media-Data-Analysis/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS307.N11-Social-Media-Data-Analysis&theme=tokyonight" alt="Social Media Data Analysis" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PhamThe-KHDL/DS300.N11-Recommendation-System/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS300.N11-Recommendation-System&theme=tokyonight" alt="Recommendation System" />
+  </a>
+  <a href="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS200.M21-Big-Data&theme=tokyonight" alt="Big Data" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS304.M21-Experimental-Design-and-Analysis&theme=tokyonight" alt="Experimental Design and Analysis" />
+  </a>
+  <a href="https://github.com/PhamThe-KHDL/DS303.M21-Bayesian-Statistics/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS303.M21-Bayesian-Statistics&theme=tokyonight" alt="Bayesian Statistics" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PhamThe-KHDL/DS204.M21-Data-Science-and-Application-Project/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS204.M21-Data-Science-and-Application-Project&theme=tokyonight" alt="Data Science and Application Project" />
+  </a>
+  <a href="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamThe-KHDL&repo=IS211.M21-Distributed-Databases&theme=tokyonight" alt="Distributed Databases" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PhamThe-KHDL/DS201.M11-Deep-Learning-in-Data-Science/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS201.M11-Deep-Learning-in-Data-Science&theme=tokyonight" alt="Deep Learning in Data Science" />
+  </a>
+  <a href="https://github.com/PhamThe-KHDL/DS310.M11-Natural-Language-Processing-for-Data-Science/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS310.M11-Natural-Language-Processing-for-Data-Science&theme=tokyonight" alt="Natural Language Processing for Data Science" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PhamThe-KHDL/DS105.M11-Data-Analysis-and-Visualization/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamThe-KHDL&repo=DS105.M11-Data-Analysis-and-Visualization&theme=tokyonight" alt="Data Analysis and Visualization" />
+  </a>
+  <a href="https://github.com/PhamThe-KHDL/IT007.M14-Operating-Systems/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamThe-KHDL&repo=IT007.M14-Operating-Systems&theme=tokyonight" alt="Operating Systems" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PhamThe-KHDL/IT004.L19-Database/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamThe-KHDL&repo=IT004.L19-Database&theme=tokyonight" alt="Database" />
+  </a>
+  <a href="https://github.com/PhamThe-KHDL/Cheat-Sheet/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamThe-KHDL&repo=Cheat-Sheet&theme=tokyonight" alt="Cheat Sheet" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PhamThe-KHDL/IBM-Data-Science-Professional-Certificate/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamThe-KHDL&repo=IBM-Data-Science-Professional-Certificate&theme=tokyonight" alt="IBM Data Science Professional Certificate" />
+  </a>
+  <a href="https://github.com/PhamThe-KHDL/Python-ML-02/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamThe-KHDL&repo=Python-ML-02&theme=tokyonight" alt="Python ML 02" />
+  </a>
+</p>
+
+<!-- ============================ FOOTER ============================ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:0e75b6&height=120&section=footer" width="100%" alt="footer" />
